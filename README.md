@@ -3,7 +3,7 @@
 ### *AI-Powered Emergency Trauma Management Clinical Simulation Platform*
 
 [![GitHub stars](https://img.shields.io/github/stars/TUANZIDING/TraumaMaster-AI-ETM?style=social)](https://github.com/TUANZIDING/TraumaMaster-AI-ETM/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Language](https://img.shields.io/badge/language-中文%20%7C%20English-brightgreen)](#)
 
 > 🇨🇳 一款基于 XABCDE 框架的 AI 驱动急诊创伤管理临床模拟训练平台，专为医学教育设计。  
