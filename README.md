@@ -132,3 +132,17 @@ npm run dev
 ---
 
 ⭐ 如果这个项目对你有帮助，请点一个 **Star** — If you find this project helpful, please give it a **Star**!
+
+
+---
+
+## 📸 界面截图 | Screenshots
+
+### 🏠 主界面 / Home Screen
+![Home Screen](docs/screenshots/Home%20Screen.png)
+
+### 📋 案例选择 / Case Selection
+![Case Selection](docs/screenshots/Case%20Selection.png)
+
+### 🎮 模拟场景 / Simulation
+![Simulation](docs/screenshots/Simulation.png)
