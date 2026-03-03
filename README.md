@@ -139,10 +139,10 @@ npm run dev
 ## 📸 界面截图 | Screenshots
 
 ### 🏠 主界面 / Home Screen
-<img src="docs/screenshots/Home%20Screen.png" alt="Home Screen" width="800">
+![Home Screen](https://raw.githubusercontent.com/TUANZIDING/TraumaMaster-AI-ETM/main/docs/screenshots/Home%20Screen.png)
 
 ### 📋 案例选择 / Case Selection
-<img src="docs/screenshots/Case%20Selection.png" alt="Case Selection" width="800">
+![Case Selection](https://raw.githubusercontent.com/TUANZIDING/TraumaMaster-AI-ETM/main/docs/screenshots/Case%20Selection.png)
 
 ### 🎮 模拟场景 / Simulation
-<img src="docs/screenshots/Simulation.png" alt="Simulation" width="800">
+![Simulation](https://raw.githubusercontent.com/TUANZIDING/TraumaMaster-AI-ETM/main/docs/screenshots/Simulation.png)
