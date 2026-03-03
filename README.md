@@ -89,8 +89,12 @@ TraumaMaster-AI ETM is an interactive clinical reasoning training platform desig
 
 ```bash
 npm install
-
 ---
+**2. 配置 API Key / Configure API Key
+GEMINI_API_KEY=your_gemini_api_key_here
+🔑 前往 / Get your key at: Google AI Studio
+**3. 启动应用 / Start the app
+npm run dev
 
 ## 📖 参考依据 | References
 
