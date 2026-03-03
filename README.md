@@ -89,3 +89,42 @@ TraumaMaster-AI ETM is an interactive clinical reasoning training platform desig
 
 ```bash
 npm install
+
+---
+
+## 📖 参考依据 | References
+
+- 🇦🇺 **ETM Course** — Emergency Trauma Management, Australia
+- 📘 **ATLS 11th Edition** — Advanced Trauma Life Support, American College of Surgeons
+- 🇨🇳 **CTCT** — 中国创伤救治培训规范
+- 🩺 **LITFL** — Life in the Fast Lane Clinical Resources
+- 📊 **Champion HR et al.** — Trauma Score (1981); TRISS Methodology
+- 🏥 **WHO Trauma Care Checklist** — World Health Organization
+
+---
+
+## 📬 联系 & 贡献 | Contributing
+
+🇨🇳 欢迎急诊医学、创伤外科、麻醉科、重症医学领域的临床专家与医学教育工作者参与共建。  
+🌐 Contributions from emergency medicine, trauma surgery, anesthesia, and critical care professionals are welcome.
+
+- 🐛 **Bug / 问题** → [Submit an Issue](https://github.com/TUANZIDING/TraumaMaster-AI-ETM/issues)
+- 💡 **新案例 / New Cases** → [Submit a Pull Request](https://github.com/TUANZIDING/TraumaMaster-AI-ETM/pulls)
+
+**贡献方向 / Contribution Areas:**
+- 📝 新增临床案例 / New clinical cases with scoring parameters & teaching traps
+- 🔍 现有案例临床审校 / Clinical review of existing cases
+- 🌐 多语言本地化 / Multilingual localization
+- 🎨 UI/UX 优化 / UI/UX improvements
+
+---
+
+## ⚠️ 免责声明 | Disclaimer
+
+> 🇨🇳 本平台**仅用于医学教育与培训目的**，所有案例均为虚构模拟情境，不构成任何真实临床诊疗建议。实际临床决策请遵循所在机构规范及上级医师指导。作者不对因参考本平台内容产生的任何临床后果承担责任。
+>
+> 🌐 This platform is **for medical education and training purposes only**. All cases are fictional simulations and do not constitute real clinical advice. Clinical decisions must follow institutional protocols and senior physician guidance. The author assumes no responsibility for any clinical outcomes arising from use of this platform.
+
+---
+
+⭐ 如果这个项目对你有帮助，请点一个 **Star** — If you find this project helpful, please give it a **Star**!
