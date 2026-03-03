@@ -11,6 +11,19 @@
 
 ---
 
+
+## 📸 界面截图 | Screenshots
+
+### 🏠 主界面 / Home Screen
+![Home Screen](https://raw.githubusercontent.com/TUANZIDING/TraumaMaster-AI-ETM/main/docs/screenshots/Home%20Screen.png)
+
+### 📋 案例选择 / Case Selection
+![Case Selection](https://raw.githubusercontent.com/TUANZIDING/TraumaMaster-AI-ETM/main/docs/screenshots/Case%20Selection.png)
+
+### 🎮 模拟场景 / Simulation
+![Simulation](https://raw.githubusercontent.com/TUANZIDING/TraumaMaster-AI-ETM/main/docs/screenshots/Simulation.png)
+
+---
 ## 🎯 项目简介 | About
 
 **🇨🇳 中文**
@@ -143,15 +156,3 @@ npm run dev
 ⭐ 如果这个项目对你有帮助，请点一个 **Star** — If you find this project helpful, please give it a **Star**!
 
 
----
-
-## 📸 界面截图 | Screenshots
-
-### 🏠 主界面 / Home Screen
-![Home Screen](https://raw.githubusercontent.com/TUANZIDING/TraumaMaster-AI-ETM/main/docs/screenshots/Home%20Screen.png)
-
-### 📋 案例选择 / Case Selection
-![Case Selection](https://raw.githubusercontent.com/TUANZIDING/TraumaMaster-AI-ETM/main/docs/screenshots/Case%20Selection.png)
-
-### 🎮 模拟场景 / Simulation
-![Simulation](https://raw.githubusercontent.com/TUANZIDING/TraumaMaster-AI-ETM/main/docs/screenshots/Simulation.png)
