@@ -1,0 +1,7 @@
+{
+  "name": "TraumaMaster-AI ETM",
+  "description": "A medical simulation game focusing on early trauma management (ETM) and Team Leader decision making.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
