@@ -139,10 +139,10 @@ npm run dev
 ## 📸 界面截图 | Screenshots
 
 ### 🏠 主界面 / Home Screen
-![Home Screen](docs/screenshots/Home%20Screen.png)
+<img src="docs/screenshots/Home%20Screen.png" alt="Home Screen" width="800">
 
 ### 📋 案例选择 / Case Selection
-![Case Selection](docs/screenshots/Case%20Selection.png)
+<img src="docs/screenshots/Case%20Selection.png" alt="Case Selection" width="800">
 
 ### 🎮 模拟场景 / Simulation
-![Simulation](docs/screenshots/Simulation.png)
+<img src="docs/screenshots/Simulation.png" alt="Simulation" width="800">
